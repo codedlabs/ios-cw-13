@@ -39,22 +39,8 @@ import UIKit
 
 
 
+
 /*: 4. Create a a function that takes a parameter of a person's name, and it **returns** the meaning of the name. (do at least 3 names)
-```
- print(meaning(name: "رتاج")) // Output:  الباب العظيم
- print(meaning(name: "حيدر")) // Output:  الأسد الجميل
- print(meaning(name: "غدير")) // Output:  المطر
-
-```
-*/
-
-
-
-
-
-
-
-/*: 5. Create a a function that takes a parameter of a person's name, and it **returns** the meaning of the name. (do at least 3 names)
  
  > **((BONUS))**: Create it using dictionaries
 ```
@@ -72,7 +58,7 @@ import UIKit
 
 
 /*:
- 6. Create a random joke function that returns a random joke from an array stored inside the function
+ 5. Create a random joke function that returns a random joke from an array stored inside the function
  ```
  print(randomJoke()) // Output: مرة واحد راح للبقالة قالوه عندك جبنة بيضة قالو لا وهو عنده قوه
  ```
@@ -83,7 +69,7 @@ import UIKit
 
 
 /*:
-7. Create a function that converts KGs to pounds. And a function that converts pounds to KGs
+6. Create a function that converts KGs to pounds. And a function that converts pounds to KGs
  > 1 KG = 2.204 Pounds
 ```
  print(poundToKilo(4)) // Output: 1.814368
@@ -98,7 +84,7 @@ import UIKit
 
 
 /*:
-8. Create a function that takes an array of integer, and it returns an array with grades that are only higher then 90!
+7. Create a function that takes an array of integer, and it returns an array with grades that are only higher then 90!
  > ***SUPER DUPER** Use `filter` method!
 ```
  print(above90([60, 70, 80, 90, 92, 91])) // Output: [90, 92, 91]
@@ -113,7 +99,7 @@ import UIKit
 
 /*:
  
-9. Create a function that converts multiple KGs to pounds. It takes array of Kilos, and returns array of pounds
+8. Create a function that converts multiple KGs to pounds. It takes array of Kilos, and returns array of pounds
  
 > 1 KG = 0.453592
  
