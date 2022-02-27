@@ -56,13 +56,19 @@ List{
 
 
  
-2.قم بإضافة اغراض تريد ان تشتريها مع الصورة مثل الشكل التالي
+ 
+2.قم بإضافة اغراض تريد ان تشتريها مع الصورة مثل الشكل التالي، يجب أن تكون داخل مصفوفة.
+
+
+ 
+3.استخدم list لعرض المنتجات بهذا الشكل.
+`Hint ✨: اسم الصورة المعروضة هو نفسه اسم المنتج`
 <p dir="rtl">
 
 
 
 
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
+<img src="Example.png" width="200" alt="alt_text" title="image_tooltip">
 </p>
 
 
